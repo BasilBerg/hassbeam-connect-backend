@@ -1,0 +1,11 @@
+{
+  "domain": "hassbeam_connect_backend",
+  "name": "HassBeam Connect Backend",
+  "version": "0.1.0",
+  "config_flow": true,
+  "documentation": "https://github.com/BasilBerg/hassbeam_connect_backend",
+  "issue_tracker": "https://github.com/BasilBerg/hassbeam_connect_backend/issues",
+  "codeowners": ["@BasilBerg"],
+  "requirements": [],
+  "integration_type": "service"
+}
